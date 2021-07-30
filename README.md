@@ -16,10 +16,14 @@ This game has some some features as below:
 
 * By clicking on "Setting", the player can choose the screen resolution and the background image. 
 
-* The bird should fly among the pipes 
+* The bird should fly among the pipes and the "Bombs" which randomly appear in the way of the bird.
 
-* 
+* The bird is given three *hearts* at the begining of the game, So after 3 collision of the bird with bombs or pipes, the game ends.
 
-* The game has three difficulty levels: "Simple", "Normal" and "Hard". After gaining specific score and by passing the time, the level is automatically changed. Therefore, 
+* The game has three difficulty levels: "Simple", "Normal" and "Hard". After gaining specific score and by passing the time, the level is automatically changed. Therefore, the pipes will get closer and the bombs will appear more in the path of the bird.
 
-* The "Best Score" is saved for the game and is 
+* The "Best Score" is saved for the game and is shown on the left side of the screen under the score.
+
+* The light of the backgorund screen will change during the game, from morning to evening and to night. This means that the time passes with the bird files.
+
+
