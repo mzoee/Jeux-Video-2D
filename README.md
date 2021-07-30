@@ -32,3 +32,7 @@ This game has some some features as below:
 * As mentioned, the game is written in JS. The files uploaded include a folder named assets which contains the 
 
 
+
+## How to run
+
+## The Demo
