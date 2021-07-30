@@ -27,3 +27,8 @@ This game has some some features as below:
 * The light of the backgorund screen will change during the game, from morning to evening and to night. This means that the time passes with the bird files.
 
 
+## The code
+
+* As mentioned, the game is written in JS. The files uploaded include a folder named assets which contains the 
+
+
