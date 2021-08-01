@@ -29,7 +29,7 @@ This game has some some features as below:
 
 ## The code
 
-* As mentioned, the game is written in JS. The files uploaded include a folder named assets which contains the 
+* As mentioned, the game is written in JS. The files uploaded include a folder named assets which contains the ... and src which contains the ...
 
 
 
