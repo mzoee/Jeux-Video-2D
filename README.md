@@ -29,10 +29,12 @@ This game has some some features as below:
 
 ## The code
 
-* As mentioned, the game is written in JS. The files uploaded include a folder named assets which contains the ... and src which contains the ...
+* As mentioned, the game is written in JS. The files uploaded include a folder named assets which contains all the images used in this game and src which contains all the scene codes in .js format.
 
 
 
 ## How to run
+
+* To run the game, after you download the whole files and unzip them, open it in VisualStudio. First, you should install the modules using the command *npm i* and secondly, you may use the command *npm run start* to run the code. 
 
 ## The Demo
