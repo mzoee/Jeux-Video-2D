@@ -37,4 +37,4 @@ This game has some some features as below:
 
 * To run the game, after you download the whole files and unzip them, open it in VisualStudio. First, you should install the modules using the command *npm i* and secondly, you may use the command *npm run start* to run the code. 
 
-## The Demo
+
