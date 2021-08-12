@@ -1,6 +1,6 @@
 # Jeux Video-2D
 
-This is a Repository for a game named "bird game" for my course "2D jeux Video" at UNIL.
+This is a Repository for a game named "bird game" for course "2D jeux Video" at UNIL.
 
 By: Maryam Sadat Zoee
 
@@ -8,9 +8,9 @@ Supervisor: Isaac Panthé
 
 ## Introduction
 
-This repository is for a 2-D Video game called "Bird Gmae" that is written in JavaScript using Phaser3. 
+This repository is for a 2-D Video game called "Bird Game" that is written in JavaScript using Phaser3. 
 
-This game has some some features as below:
+This game has some features as below:
 
 * At the begining of the game, after running the code, the Menu is shown on the screen. It contains *play*, *score*, *setting*, *exit*. 
 
@@ -24,7 +24,7 @@ This game has some some features as below:
 
 * The "Best Score" is saved for the game and is shown on the left side of the screen under the score.
 
-* The light of the backgorund screen will change during the game, from morning to evening and to night. This means that the time passes with the bird files.
+* The light of the backgorund screen will change during the game, from morning to evening and to night. This means that the time passes with the bird flies.
 
 
 ## The code
