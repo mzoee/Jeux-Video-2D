@@ -20,11 +20,13 @@ This game has some features as below:
 
 * The bird should fly among the pipes and the "Fruits" which randomly appear in the way of the bird.
 
-* Each "Fruit" has a random number on it. Therefore, the aim of this game for the user is to eat the fruit that has a correct number (a correct multiplication of the number selcted at the beginning of the game). Five different fruits appear on the way of the bird: banana, apple, lemon, grape & pear.
+* Each "Fruit" has a random number on it. Therefore, the aim of this game for the user is to eat the fruit that has a correct number (a correct multiplication of the number selcted at the beginning of the game). Five different fruits appear on the way of the bird: banana, apple, lemon, grape & pear. 
 
-* The bird is given three *hearts* at the begining of the game, So after 3 collision of the bird with bombs or pipes, the game ends.
+* The bird is given three *hearts* at the begining of the game, So after 3 collision of the bird with the pipes or eating the wrong fruit, the game ends.
 
-* The game has three difficulty levels: "Simple", "Normal" and "Hard". After gaining specific score and by passing the time, the level is automatically changed. Therefore, the pipes will get closer and the bombs will appear more in the path of the bird.
+* Each time that the bird eats the correct fruit, the player gains score and one heart.
+
+* The game has three difficulty levels: "Simple", "Normal" and "Hard". After gaining specific score and by passing the time, the level is automatically changed. Therefore, the pipes will get closer and the fruits will appear more in the path of the bird.
 
 * The "Best Score" is saved for the game and is shown on the left side of the screen under the score.
 
