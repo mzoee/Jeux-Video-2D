@@ -1,6 +1,6 @@
 # Jeux Video-2D
 
-This is a Repository for a game named "bird game" for course "2D jeux Video" at UNIL.
+This is a Repository for a game named "bird game": multiplication practice for course "2D jeux Video" at UNIL.
 
 By: Maryam Sadat Zoee
 
@@ -8,13 +8,15 @@ Supervisor: Isaac Panthé
 
 ## Introduction
 
-This repository is for a 2-D Video game called "Bird Game" that is written in JavaScript using Phaser3. 
+This repository is for a 2-D Video game called "Bird Game": multiplication practice that is written in JavaScript using Phaser3. 
 
 This game has some features as below:
 
 * At the begining of the game, after running the code, the Menu is shown on the screen. It contains *play*, *score*, *setting*, *exit*. 
 
 * By clicking on "Setting", the player can choose the screen resolution and the background image. 
+
+* By clicking on "Play", another page is appeared on the screen that the player should select the number he/she wants to practice for.
 
 * The bird should fly among the pipes and the "Bombs" which randomly appear in the way of the bird.
 
