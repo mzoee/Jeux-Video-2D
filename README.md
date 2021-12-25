@@ -18,7 +18,9 @@ This game has some features as below:
 
 * By clicking on "Play", another page is appeared on the screen that the player should select the number he/she wants to practice for.
 
-* The bird should fly among the pipes and the "Bombs" which randomly appear in the way of the bird.
+* The bird should fly among the pipes and the "Fruits" which randomly appear in the way of the bird.
+
+* Each "Fruit" has a random number on it. Therefore, the aim of this game for the user is to eat the fruit that has a correct number (a correct multiplication of the number selcted at the beginning of the game). Five different fruits appear on the way of the bird: banana, apple, lemon, grape & pear.
 
 * The bird is given three *hearts* at the begining of the game, So after 3 collision of the bird with bombs or pipes, the game ends.
 
